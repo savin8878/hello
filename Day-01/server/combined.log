@@ -1,0 +1,54 @@
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:32:10.927Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:32:10.972Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:35:59.906Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:35:59.960Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:37:17.292Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:37:17.344Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:39:24.074Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:39:24.120Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:39:26.559Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:39:26.604Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:44:48.386Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:44:48.444Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:59:32.674Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:59:32.725Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T02:59:34.638Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T02:59:34.680Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T03:01:46.832Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T03:01:46.875Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T03:01:55.823Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T03:01:55.866Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T03:49:46.285Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T03:49:46.342Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T03:49:48.608Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T03:49:48.689Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T03:50:25.568Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T03:50:25.620Z"}
+error: Registration error: isEmailExist is not defined {"stack":"ReferenceError: isEmailExist is not defined\n    at exports.register (C:\\Users\\Akash vishwakarma\\Desktop\\Day-01\\server\\controllers\\UserController.js:33:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-04-10T03:50:44.838Z"}
+error: ReferenceError: isEmailExist is not defined
+    at exports.register (C:\Users\Akash vishwakarma\Desktop\Day-01\server\controllers\UserController.js:33:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {"timestamp":"2024-04-10T03:50:44.846Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T03:51:02.523Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T03:51:02.560Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:09:19.984Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:09:20.041Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:09:26.911Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:09:26.961Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:09:31.476Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:09:31.518Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:09:34.548Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:09:34.597Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:09:36.697Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:09:36.743Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:09:40.350Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:09:40.401Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:10:11.637Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:10:11.678Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:10:14.756Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:10:14.801Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:12:03.214Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:12:03.265Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T05:23:49.880Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T05:23:49.936Z"}
+info: Server is running at 8000 {"timestamp":"2024-04-10T06:03:46.277Z"}
+info: Connected to MongoDB {"timestamp":"2024-04-10T06:03:46.319Z"}

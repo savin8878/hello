@@ -1,0 +1,4 @@
+error: Registration error: isEmailExist is not defined {"stack":"ReferenceError: isEmailExist is not defined\n    at exports.register (C:\\Users\\Akash vishwakarma\\Desktop\\Day-01\\server\\controllers\\UserController.js:33:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2024-04-10T03:50:44.838Z"}
+error: ReferenceError: isEmailExist is not defined
+    at exports.register (C:\Users\Akash vishwakarma\Desktop\Day-01\server\controllers\UserController.js:33:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) {"timestamp":"2024-04-10T03:50:44.846Z"}
